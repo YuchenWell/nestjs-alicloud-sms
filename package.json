@@ -1,6 +1,6 @@
 {
   "name": "nestjs-alicloud-sms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Alicloud short message service (SMS) module for NestJS framework (node.js)",
   "license": "MIT",
   "author": "Zhou Zhenzhou(275028888@qq.com)",
