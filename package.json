@@ -19,7 +19,8 @@
     "major": "npm run release -- --release-as major",
     "minor": "npm run release -- --release-as minor",
     "patch": "npm run release -- --release-as patch",
-    "release": "standard-version"
+    "release": "standard-version",
+    "publish": "npm run build && npm publish --access public"
   },
   "dependencies": {
     "@alicloud/pop-core": "^1.7.9"
